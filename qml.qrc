@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>InfoDialog.qml</file>
+        <file>Icon.qml</file>
     </qresource>
 </RCC>
